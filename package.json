@@ -4,5 +4,5 @@
   "type": "module",
   "version": "0.0.1",
   "private": true,
-  "workspaces": ["packages/sub1","packages/sub2"]
+  "workspaces": ["sub1","sub2"]
 }
