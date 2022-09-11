@@ -3,6 +3,4 @@
   "main": "index.js",
   "type": "module",
   "version": "0.0.1",
-  "private": true,
-  "workspaces": ["sub1","sub2"]
 }
