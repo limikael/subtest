@@ -1,5 +1,6 @@
 {
   "name": "subtest",
   "main": "index.js",
-  "type": "module"
+  "type": "module",
+  "version": "0.0.1"
 }
