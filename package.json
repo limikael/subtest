@@ -2,5 +2,7 @@
   "name": "subtest",
   "main": "index.js",
   "type": "module",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "private": true,
+  "workspaces": ["packages/sub1","packages/sub2"]
 }
